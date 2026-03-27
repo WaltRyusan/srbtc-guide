@@ -1,2 +1,3 @@
-# srbtc-guide-privacy-policy
-・　https://waltryusan.github.io/srbtc-guide/privacy-policy
+# サモランバチコンガイド
+- プライバシーポリシー: https://waltryusan.github.io/srbtc-guide/privacy-policy
+- サポート: https://waltryusan.github.io/srbtc-guide/support
